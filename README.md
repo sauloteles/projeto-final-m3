@@ -11,7 +11,7 @@ O banco de dados serve para gerenciar a coleta, organização e distribuição d
 ![alt text](image.png)
 
 ## Diagrama Conceitual
-
+![alt text](<DiagramaProjeto (1).png>)
 
 
 ## Licença
