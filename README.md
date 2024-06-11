@@ -16,11 +16,12 @@ O software também disponibiliza um mapa da região pontuando os locais de colet
 ![alt text](<diagramas/diagramaLogico.png>)
 
 ## Bancos de Dados
-# O código do sistema
-![Texto do Link](bancos-de-dados/tables.sql)
-![Texto do Link](bancos-de-dados/inserts.sql)
-# O código das análises realizadas
-![Texto do Link](bancos-de-dados/consultas.sql)
+- O código do sistema
+    - ![Tables](bancos-de-dados/tables.sql)
+    - ![Insets](bancos-de-dados/inserts.sql)
+
+- O código das análises realizadas
+    - ![Consultas](bancos-de-dados/consultas.sql)
 
 ## Licença
 
