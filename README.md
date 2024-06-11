@@ -1,18 +1,26 @@
-# Rede Solidária
+# Conectados
 
 ## Objetivo
 
-O banco de dados serve para gerenciar a coleta, organização e distribuição de doações para vítimas de catástrofes. Ele armazena informações sobre usuários (doadores, administradores e abrigos), doações, itens doados e necessidades dos abrigos. Cada tabela tem campos específicos para garantir o rastreamento e a gestão eficiente das doações. Através do banco de dados, é possível monitorar as necessidades em tempo real, otimizar a distribuição de recursos e garantir que os itens cheguem rapidamente a quem precisa, mantendo a segurança e a transparência das operações.
+Diante da catástrofe do Rio Grande do Sul, percebemos a dificuldade dos pontos de coleta e distribuição de suprir as necessidades das famílias vítimas das enchentes. O grande volume de doações somente de um tipo de item, dificultava a distribuição de kits justos que suprissem necessidades de higiene, limpeza, alimentação e roupas. 
+Visando uma melhor distribuição e controle, idealizamos um software que gerencia essas doações.
+Dessa forma, o doador teriam a oportunidade de acompanhar em tempo real, quais abrigos carecem dos itens que ele pode ofertar, o que por consequência auxilia os abrigos na organização das doações e permite que deem enfoque nos itens escassos.
+O software também disponibiliza um mapa da região pontuando os locais de coleta, distribuição e abrigo para casos de catástrofes cujo o sinal não seja afetado, nesse contexto as vítimas poderão ter um norte de onde retirar suprimentos e se abrigar.
 
 ---
 
+## Diagrama Conceitual
+![alt text](<diagramas/diagramaConceitual.png>)
 
 ## Diagrama Lógico
-![alt text](image.png)
+![alt text](<diagramas/diagramaLogico.png>)
 
-## Diagrama Conceitual
-![alt text](<DiagramaProjeto (1).png>)
-
+## Bancos de Dados
+# O código do sistema
+![Texto do Link](bancos-de-dados/tables.sql)
+![Texto do Link](bancos-de-dados/inserts.sql)
+# O código das análises realizadas
+![Texto do Link](bancos-de-dados/consultas.sql)
 
 ## Licença
 
