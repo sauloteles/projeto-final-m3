@@ -25,7 +25,7 @@ O software também disponibiliza um mapa da região pontuando os locais de colet
 
 - Os gráficos a partir dos dados das análises
     - [Vizualizar os gráficos](https://docs.google.com/spreadsheets/d/1g6teQ4uhwTT-xuOzqU4eLxrwql0rDXGktaeHcE9StJY/edit?usp=sharing)
-    - [Baixar os gráficos](scripts/database.sql)
+    - [Baixar os gráficos](graficos/Gráficos.xlsx)
 
 ## Licença
 
