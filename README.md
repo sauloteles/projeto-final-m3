@@ -17,11 +17,15 @@ O software também disponibiliza um mapa da região pontuando os locais de colet
 
 ## Bancos de Dados
 - O código do sistema
-    - ![Tables](bancos-de-dados/tables.sql)
-    - ![Insets](bancos-de-dados/inserts.sql)
+    - [Tables](bancos-de-dados/tables.sql)
+    - [Insets](bancos-de-dados/inserts.sql)
 
 - O código das análises realizadas
-    - ![Consultas](bancos-de-dados/consultas.sql)
+    - [Consultas](bancos-de-dados/consultas.sql)
+
+- Os gráficos a partir dos dados das análises
+    - [Vizualizar os gráficos](https://docs.google.com/spreadsheets/d/1g6teQ4uhwTT-xuOzqU4eLxrwql0rDXGktaeHcE9StJY/edit?usp=sharing)
+    - [Baixar os gráficos](scripts/database.sql)
 
 ## Licença
 
