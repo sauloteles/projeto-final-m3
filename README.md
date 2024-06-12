@@ -23,9 +23,9 @@ O software também disponibiliza um mapa da região pontuando os locais de colet
 - O código das análises realizadas
     - [Consultas](bancos-de-dados/consultas.sql)
 
-- Os gráficos a partir dos dados das análises
-    - [Vizualizar os gráficos](https://docs.google.com/spreadsheets/d/1g6teQ4uhwTT-xuOzqU4eLxrwql0rDXGktaeHcE9StJY/edit?usp=sharing)
-    - [Baixar os gráficos](graficos/Gráficos.xlsx)
+## Os gráficos a partir dos dados das análises
+- [Vizualizar os gráficos](https://docs.google.com/spreadsheets/d/1g6teQ4uhwTT-xuOzqU4eLxrwql0rDXGktaeHcE9StJY/edit?usp=sharing)
+- [Baixar os gráficos](graficos/Gráficos.xlsx)
 
 ## Licença
 
